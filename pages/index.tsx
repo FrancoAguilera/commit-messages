@@ -29,7 +29,7 @@ const Home: NextPage = () => {
       </div>
       <div className="container">
         <div className="message">
-          <span>"{message}"</span>
+          <span>&quot;{message}&quot;</span>
           <span
             className="copy-icon"
             onClick={copyText}
