@@ -1,1 +1,1 @@
-Live demo: [Commitment](https://francoaguilera.github.io/commitment/)
+Live demo: [Commitment](https://francoaguilera.github.io/commit-messages/)
